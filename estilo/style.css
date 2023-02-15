@@ -16,7 +16,7 @@ h1 > a{
 h1 > a:hover{
     text-decoration: underline;
 }
-section.lugar{
+article.lugar{
     float: left;
     width: 660px;
     background-color: white;
@@ -25,7 +25,7 @@ section.lugar{
     margin-bottom: 20px;
     padding: 10px;
 }
-section.lugar > img{
+article.lugar > img{
     width: 160px;
     height: 177px;
     border: 1px solid #19809f;
@@ -33,7 +33,7 @@ section.lugar > img{
     margin: 10px 10px 0 0;
     padding: 2px;
 }
-section.lugar > h2{
+article.lugar > h2{
     border-bottom: 1px dashed #7e9f19;
     margin: 0;
 }
